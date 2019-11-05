@@ -1,0 +1,36 @@
+/* Tags */
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  margin: 0;
+}
+
+header {
+  background-color: darkblue;
+}
+
+footer {
+  background-color: darkblue;
+  height: 100px;
+}
+
+/* IDs */
+#light-blue-rec {
+  height: 20px;
+  width: 50%;
+  border: 15px;
+  margin: 10px;
+  background-color: lightblue;
+}
+
+/* Classes */
+.dark-blue {
+  background-color: darkblue;
+}
+
+.white-text {
+  color: white;
+}
